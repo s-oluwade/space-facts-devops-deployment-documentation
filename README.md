@@ -8,8 +8,8 @@ Space facts is a microservice web application that provides facts about interpla
 5. client-service
 
 ## Tools and Services
-1. EKS
-2. Jenkins
+1. EKS: Deployment enviroment
+2. Jenkins: Automation
 3. 
 
 # deploy an eks cluster
