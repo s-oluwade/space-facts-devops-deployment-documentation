@@ -1,5 +1,11 @@
+# Space Facts Application
 
-Space facts is a microservice application about ...
+Space facts is a microservice web application for space facts. It was built in python with the Flask framework. It comprises of the following 5 microservices:
+1. moon-service
+2. planet-service
+3. star-service
+4. aggregator-service
+5. client-service
 
 Deployed in Kubernetes via an EKS cluster
 
