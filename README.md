@@ -10,7 +10,6 @@ Space facts is a microservice web application that provides facts about interpla
 ## Tools and Services
 1. EKS: Deployment enviroment
 2. Jenkins: Automation
-3. 
 
 # deploy an eks cluster
 eksctl create cluster --name universe-cluster --region us-east-1 --nodegroup-name universe-nodes --node-type t2.medium --nodes 3 --nodes-min 1 --nodes-max 4 --managed
